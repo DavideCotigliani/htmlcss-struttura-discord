@@ -18,6 +18,7 @@
     background-color: orange;
     margin-top: 10px;
     display: flex;
+    margin-left: 5%;
 }
 
 .link{
@@ -38,6 +39,7 @@
     margin-top: 10px;
     display: flex;
     justify-content: flex-end;
+    margin-right: 5%;
 }
 
 
@@ -45,8 +47,8 @@
     height: 200px;
     border: 1px dotted black;
     width: 45%;
-    background-color: pink;
-    margin-left: 23%;
+    background-color: rgb(148, 62, 112);
+    margin-left: 30%;
     
 }
 
@@ -65,7 +67,49 @@
 .secondasezione{
     height: 250px;
     border: 1px dotted black;
-    width: 60%;
+    width: 400px;
     background-color: pink;
     margin-left: 23%;
+}
+
+.terzasezione{
+    height: 250px;
+    border: 1px dotted black;
+    width: 250px;
+    background-color: rgb(57, 117, 207);
+}
+
+.bg-grey{
+    background-color: grey;
+}
+
+.riquadrogrande{
+    width: 50%;
+    height: 400px;
+    background-color: green;
+    border: 1px dotted black;
+    margin-left: 23%;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.ultimoriquadrorosa{
+    height: 250px;
+    border: 1px dotted black;
+    width: 170px;
+    background-color: pink;
+    margin-left: 23%;
+}
+
+.ultimiriquadriazzurri{
+    height: 250px;
+    border: 1px dotted white;
+    width: 95px;
+    background-color: rgb(48, 166, 202);
+}
+
+hr{
+    border: 1px solid grey;
 }
